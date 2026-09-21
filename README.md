@@ -1,6 +1,6 @@
 # SIREN-FWI as two composed Tesseracts
 
-> 📄 **[See the project page](https://ducanhle156.github.io/tesseract-siren-fwi/)** — results, figures and the inversion movie.
+> 📄 **[See the project page](https://anhle156.github.io/tesseract-siren-fwi/)** — results, figures and the inversion movie.
 >
 > 🏁 Built for the [Tesseract Hackathon 2026](https://pasteurlabs.ai/tesseract-hackathon-2026/),
 > **Track 3 — Hybrid ML + Mechanistic Models**: a learned component (a SIREN
@@ -171,7 +171,7 @@ docs/               the project page
 ## Running it
 
 ```bash
-git clone https://github.com/ducanhle156/tesseract-siren-fwi.git
+git clone https://github.com/anhle156/tesseract-siren-fwi.git
 cd tesseract-siren-fwi
 
 conda create -n fwi python=3.11 && conda activate fwi
